@@ -1,5 +1,5 @@
 # Food Ordering App Built Using MERN Stack!
-![Alt Text](web-dev-portfolio/img.png)
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/180350693-92a71ecb-7672-49b1-8943-188e96d13ee6.png">
 
 
 ## Available Scripts
