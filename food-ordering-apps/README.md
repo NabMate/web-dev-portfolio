@@ -1,5 +1,5 @@
 # Food Ordering App Built Using MERN Stack!
-![Alt Text](img.png)
+![Alt Text](web-dev-portfolio/img.png)
 
 
 ## Available Scripts
